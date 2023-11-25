@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 title: 3-D CMZ SITE DRAFT
 description: Unveiling the Structure of our Galaxy’s Central Molecular Zone
+image: ./docs/assets/3color.png 
