@@ -56,5 +56,4 @@ In addition to the Data Products linked above, we invite you to visit a [guided 
 
 
 
-
-![NSF logo](./docs/assets/images/NSF_transparent.png)
+<img src="https://github.com/CentralMolecularZone/3D_CMZ/blob/main/docs/assets/images/NSF_transparent.png" width=20% height=20%>
