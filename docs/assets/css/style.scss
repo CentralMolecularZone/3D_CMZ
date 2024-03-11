@@ -1,6 +1,7 @@
 ---
 ---
 
+$baseurl: "{{ site.baseurl }}";
 @import 'jekyll-theme-cayman';
 
-$baseurl: "{{ site.baseurl }}";
+
