@@ -106,7 +106,7 @@ a {
 }
 
 .page-header {
-  background-image: url('https://github.com/CentralMolecularZone/3D_CMZ/tree/main/docs/assets/3color.jpg');
+  background-image: url('#{$baseurl}/docs/assets/3color.jpg');
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
