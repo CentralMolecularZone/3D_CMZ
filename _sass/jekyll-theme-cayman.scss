@@ -106,10 +106,13 @@ a {
 }
 
 .page-header {
+  background-image: url('/assets/3color.jpg');
   color: $header-heading-color;
   text-align: center;
-  background-image: url("./../docs/assets/3color.png");
-  background-size: 100% auto;
+  background-color: $header-bg-color;
+  background-size: cover;
+  
+
 
 
   @include large {
