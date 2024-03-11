@@ -56,4 +56,4 @@ In addition to the Data Products linked above, we invite you to visit a [guided 
 
 
 
-<img src='./docs/assets/images/NSF_transparent.png' width=20% height=20%>
+<img src='./docs/assets/images/NSF_transparent.png' width='100'>
