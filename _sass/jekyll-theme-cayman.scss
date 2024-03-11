@@ -106,7 +106,7 @@ a {
 }
 
 .page-header {
-  background-image: url('/assets/3color.jpg');
+  background-image: url('{{site.baseurl}}/docs/assets/3color.png');
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
