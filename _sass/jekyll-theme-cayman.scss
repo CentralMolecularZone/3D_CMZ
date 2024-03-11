@@ -71,10 +71,12 @@ a {
   border-width: 1px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
 
   &:hover {
     color: rgba(255, 255, 255, 1);
     text-decoration: none;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
     background-color: rgba(0, 0, 0, 0.8);
     border-color: rgba(255, 255, 255, 0.3);
   }
@@ -107,6 +109,7 @@ a {
 
 .page-header {
   background-image: url('./../../../3color.jpg');
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
