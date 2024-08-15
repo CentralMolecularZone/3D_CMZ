@@ -56,29 +56,6 @@ def predict_near_far(model_data, catalogue_data, n_neighbors, inv_cov):
     return np.array(predicted_nf), np.array(weights)
 
 
-def analyse_model_4d_with_k(model, catalogue, model_name, k_range):
-    model_data = model[['l', 'b', 'v']].values
-    catalogue_data = catalogue[['l', 'b', 'v']].values
-
-    distances, inv_cov = calculate_mahalanobis_distances(model_data, catalogue_data)
-    normalized_distances = distances / np.max(distances)
-    overall_distance_3d = np.mean(np.min(normalized_distances, axis=0))
-
-    nf_accuracies = []
-    for k in k_range:
-        predicted_nf, weights = predict_near_far(model, catalogue_data, k, inv_cov)
-        actual_nf = catalogue['near_far'].values
-        nf_accuracy = np.sum((predicted_nf == actual_nf) * weights) / np.sum(weights)
-        nf_accuracies.append(nf_accuracy)
-
-    return {
-        'name': model_name,
-        'overall_distance_3d': overall_distance_3d,
-        'nf_accuracies': nf_accuracies,
-        'k_range': list(k_range),
-    }
-
-
 def run_knn(model, catalogue, model_name, k):
     model_data = model[['l', 'b', 'v']].values
     catalogue_data = catalogue[['l', 'b', 'v']].values
