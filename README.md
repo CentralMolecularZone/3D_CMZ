@@ -16,7 +16,7 @@ properties with those of regions within the Milky Way disk as well as distant ga
 **Paper IV: Lipman et al. (in prep):** Investigates the use of MIR dust extinction techniques for near/far diambiguation using Spitzer 8&micro;m data, the HiGAL column density map from Paper I, and cloud catalog from Paper III. We explore the application of typical 8&micro;m dust exctinction column density methods in the high density CMZ. We then present three new dust extinction methods for near/far diambiguation: a calculated 70&micro;m extinction column density, a flux ratio, and flux difference. We compare the three new methods in this paper, as well as the molecular line absorption results from Paper III, to determine near/far likelihoods for all clouds in the catalog and compare with current 3-D orbital models of the CMZ.  
 
 ## See the Results! 
-**This web app was created by Daniel Walker to display four models of the 3-D geometry of the CMZ overlaid with the results from Papers III and IV.** Use the embedded app below, or visit [This Link](https://3d-cmz-models.streamlit.app/) (Note: this app works best on Google Chrome, Firefox, and Microsoft Edge). 
+**This web app was created by _Daniel Walker_ to display four models of the 3-D geometry of the CMZ overlaid with the results from Papers III and IV.** Use the embedded app below, or visit [This Link](https://3d-cmz-models.streamlit.app/) (Note: this app works best on Google Chrome, Firefox, and Microsoft Edge). 
 <iframe
   src="https://3d-cmz-models.streamlit.app?embed=true"
   style="height: 450px; width: 100%;"
@@ -61,6 +61,13 @@ Relevant code associated with each paper in the series can be found here: [GitHu
 ## World Wide Telescope Tour [DIRECT LINK COMING SOON]
 In addition to the Data Products linked above, we invite you to visit a [guided World Wide Telescope tour](https://web.wwtassets.org/embed/1/wwt/?tour=https%3A%2F%2Fdata1.wwtassets.org%2Fpackages%2F2023%2F11_danya%2FUncovering%2520the%25203-D%2520structure%2520of%2520our%2520Galaxy%25E2%2580%2599s%2520Center%2520v1.wtt) of the CMZ created by _Danya Alboslani_ 
 
+<iframe
+  src="https://web.wwtassets.org/embed/1/wwt/?tour=https%3A%2F%2Fdata1.wwtassets.org%2Fpackages%2F2023%2F11_danya%2FUncovering%2520the%25203-D%2520structure%2520of%2520our%2520Galaxy%25E2%2580%2599s%2520Center%2520v1.wtt?embed=true"
+  style="height: 450px; width: 100%;"
+></iframe>
+
+
 
 
 <img src='./docs/assets/images/NSF_transparent.png' width='100'>
+This work was supported by the National Science Foundation through Award Nos. 1816715, 2206510, and CAREER 2145689
