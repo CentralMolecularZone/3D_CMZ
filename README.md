@@ -23,22 +23,27 @@ This web app was created by _Daniel Walker_ to display four models of the 3-D ge
 ></iframe>
 
 
-## Data Products [COMING SOON]
-Integrated column density map from Paper I 
+## Data Products 
+**All data products can be found on the public [Harvard DataVerse](https://dataverse.harvard.edu/dataverse/3D_CMZ)** We select several key products we'd like to highlight, linked below:
 
-dust temperature map from Paper I 
+[Integrated column density map from Paper I](https://dataverse.harvard.edu/file.xhtml?fileId=10454698&version=1.0) 
 
-dendrogram catalog from Paper II 
+[Dust temperature map from Paper I](https://dataverse.harvard.edu/file.xhtml?fileId=10454717&version=1.0) 
 
-dendrogram catalog from Paper III 
+[Dendrogram catalog from Paper II](https://dataverse.harvard.edu/file.xhtml?fileId=10454712&version=1.0) 
 
-Cloud masks from Paper III 
+[Cloud catalog from Paper III](https://dataverse.harvard.edu/file.xhtml?fileId=10481330&version=2.0) 
 
-Calculated 70&micro;m dust extinction column density map from Paper IV 
+[Cloud masks from Paper III](https://dataverse.harvard.edu/file.xhtml?fileId=10454585&version=1.0) 
 
-Flux Ratio map from Paper IV 
+[Synthesized methods and results table from Paper IV](https://dataverse.harvard.edu/file.xhtml?fileId=10463787&version=1.0)
 
-Flux Difference map from Paper IV 
+[8&micro;m Flux Ratio map from Paper IV](https://dataverse.harvard.edu/file.xhtml?fileId=10463786&version=1.0) 
+
+[8&micro;m Flux Difference map from Paper IV](https://dataverse.harvard.edu/file.xhtml?fileId=10463785&version=1.0) 
+
+Individually masked 70&micro;m Correlation Coefficient maps from Paper IV can be found [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FBV7T5) 
+
 
 
 ## Relevant Code
