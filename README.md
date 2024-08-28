@@ -16,7 +16,7 @@ properties with those of regions within the Milky Way disk as well as distant ga
 **Paper IV: Lipman et al. (in prep):** Investigates the use of MIR dust extinction techniques for near/far diambiguation using Spitzer 8&micro;m data, the HiGAL column density map from Paper I, and cloud catalog from Paper III. We explore the application of typical 8&micro;m dust exctinction column density methods in the high density CMZ. We then present three new dust extinction methods for near/far diambiguation: a calculated 70&micro;m extinction column density, a flux ratio, and flux difference. We compare the three new methods in this paper, as well as the molecular line absorption results from Paper III, to determine near/far likelihoods for all clouds in the catalog and compare with current 3-D orbital models of the CMZ.  
 
 ## See the Results! 
-**This web app was created by Daniel Walker to display four models of the 3-D geometry of the CMZ overlaid withthe results from Papers III and IV.** Use the embedded app below, or visit [This Link](https://3d-cmz-models.streamlit.app/) (Note: this app works best on Google Chrome, Firefox, and Microsoft Edge). 
+**This web app was created by Daniel Walker to display four models of the 3-D geometry of the CMZ overlaid with the results from Papers III and IV.** Use the embedded app below, or visit [This Link](https://3d-cmz-models.streamlit.app/) (Note: this app works best on Google Chrome, Firefox, and Microsoft Edge). 
 <iframe
   src="https://3d-cmz-models.streamlit.app?embed=true"
   style="height: 450px; width: 100%;"
