@@ -59,7 +59,7 @@ Relevant code associated with each paper in the series can be found here: [GitHu
 
 
 ## World Wide Telescope Tour
-In addition to the Data Products linked above, we invite you to visit a [guided World Wide Telescope tour](https://web.wwtassets.org/embed/1/wwt/?tour=https%3A%2F%2Fdata1.wwtassets.org%2Fpackages%2F2023%2F11_danya%2FUncovering%2520the%25203-D%2520structure%2520of%2520our%2520Galaxy%25E2%2580%2599s%2520Center%2520v1.wtt) of the CMZ created by _Danya Alboslani_ 
+In addition to the Data Products linked above, we invite you to visit a [guided World Wide Telescope tour](https://web.wwtassets.org/embed/1/wwt/?tour=https%3A%2F%2Fdata1.wwtassets.org%2Fpackages%2F2023%2F11_danya%2FUncovering%2520the%25203-D%2520structure%2520of%2520our%2520Galaxy%25E2%2580%2599s%2520Center%2520v1.wtt) of the CMZ. Created by _Danya Alboslani_ with original script written by another UConn undergraduate student. Editing assistance from Dr. Cara Battersby, Dani Lipman, and Dr. Daniel Walker 
 
 <iframe
   src="https://web.wwtassets.org/embed/1/wwt/?tour=https%3A%2F%2Fdata1.wwtassets.org%2Fpackages%2F2023%2F11_danya%2FUncovering%2520the%25203-D%2520structure%2520of%2520our%2520Galaxy%25E2%2580%2599s%2520Center%2520v1.wtt?embed=true"
