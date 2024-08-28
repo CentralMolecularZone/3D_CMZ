@@ -70,4 +70,6 @@ In addition to the Data Products linked above, we invite you to visit a [guided 
 
 
 <img src='./docs/assets/images/NSF_transparent.png' width='100'>
+
+
 This work was supported by the National Science Foundation through Award Nos. 1816715, 2206510, and CAREER 2145689
