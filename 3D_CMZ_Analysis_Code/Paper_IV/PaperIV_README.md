@@ -7,10 +7,15 @@ For any questions or clarifications, please contact Dani Lipman (dani.lipman@uco
 In the main Paper_IV directory are the main notebooks and python scripts used for the dust extinction analysis.
 
 CMZ_FFT_smoothing.py: performs masking and smoothing of the Spitzer 8um and Herschel 70um maps 
+
 70um_catalog.ipynb: masks out the herschel 70um point source catalog from the 70um map.
+
 flux_fractions.py: performs flux diff and flux ratio method calculations 
+
 8um_extinction_col_den.ipynb: Performs Spitzer 8um extinction column density calculations and creates plots similar to Fig C1
+
 70um_extinction_col_den.ipynb: Performs Herscehl 70um extinction column density calculations and creates plots similar to Fig C1
+
 Sub_masks_ExtN_Calcs.ipynb: Applies the cloud submasks from Paper III and recalculates all extinction methods for the sub masks.
 
 
