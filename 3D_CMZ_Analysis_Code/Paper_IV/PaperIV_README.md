@@ -19,6 +19,10 @@ flux_fractions.py: performs flux diff and flux ratio method calculations
 Sub_masks_ExtN_Calcs.ipynb: Applies the cloud submasks from Paper III and recalculates all extinction methods for the sub masks.
 
 
+
+
+
+
 The subfolders contain code for further analysis and main figures.
 3D_CMZ_Analysis_Code/Paper_IV/paper_figs/ contains code that was used to create the main overview figures in paper 4, including Figs 1, 3 and 4. 
 
