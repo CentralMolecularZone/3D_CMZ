@@ -2,9 +2,9 @@ Paper 4 readme
 
 This directory contains files used to make the figures for 3-D CMZ Paper 4 as well as much of the analysis code. These are not heavily commented or intended to be completely generalized for other data / situations. They are here for transparency of methodology and for adaptation if you find any aspect of it useful. If you find it useful, please cite the paper in any work that utilizes this code or the data products produced in the paper.
 
-For any questions or clarifications, please contact Dani Lipman (dani.lipman@uconn.edu)
+The code shared has gone through many iterations and is not well commented in many cases. It is certainly neither pretty nor efficient in many cases, but is shared in case it could be useful for others. For any questions or clarifications, please contact Dani Lipman (dani.lipman@uconn.edu)
 
-In the main Paper_IV directory are the main notebooks and python scripts used for the dust extinction analysis.
+In the Paper_IV directory are the main notebooks and python scripts used for the dust extinction analysis.
 
 CMZ_FFT_smoothing.py: performs masking and smoothing of the Spitzer 8um and Herschel 70um maps 
 
@@ -23,7 +23,7 @@ Sub_masks_ExtN_Calcs.ipynb: Applies the cloud submasks from Paper III and recalc
 
 
 
-The subfolders contain code for further analysis and main figures.
+The subfolders contain code for further analysis and many key figures.
 3D_CMZ_Analysis_Code/Paper_IV/paper_figs/ contains code that was used to create the main overview figures in paper 4, including Figs 1, 3 and 4. 
 
 3D_CMZ_Analysis_Code/Paper_IV/LBV_plots/ contains code and files used for the lbv plots and comparisons between methods (Figs 7, 8, 9, 10, 11).
