@@ -133,8 +133,8 @@ def main():
     drop_leaves = [0, 1, 2, 3, 4, 5, 6, 7, 10, 55, 56]
     
     kin_data, phys_data = load_and_clean_data(
-        'cmz_cloud_kinematic_properties_sorted_final_2.tex',
-        'cmz_cloud_physical_properties_sorted_final_v2_mass_corrected.tex',
+        'cmz_cloud_kinematic_properties_sorted_final.tex',
+        'cmz_cloud_physical_properties_sorted_final.tex',
         drop_leaves
     )
     
